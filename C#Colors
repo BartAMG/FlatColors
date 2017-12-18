@@ -1,0 +1,125 @@
+<!--Gray-->
+    <Color x:Key="WhiteSmoke">#ECECEC</Color>
+    <Color x:Key="Lynch">#6C7A89</Color>
+    <Color x:Key="Pumice">#D2D7D3</Color>
+    <Color x:Key="Gallery">#EEEEEE</Color>
+    <Color x:Key="SilverSand">#BDC3C7</Color>
+    <Color x:Key="Porcelain">#ECF0F1</Color>
+    <Color x:Key="Cascade">#95A5A6</Color>
+    <Color x:Key="Iron">#DADFE1</Color>
+    <Color x:Key="Edward">#ABB7B7</Color>
+    <Color x:Key="Cararra">#F2F1EF</Color>
+    <Color x:Key="Silver">#BFBFBF</Color>
+    
+    <!--Red-->
+    <Color x:Key="Cinnabar">#F03434</Color>
+    <Color x:Key="SoftRed">#EC644B</Color>
+    <Color x:Key="Chestnut">#D24D57</Color>
+    <Color x:Key="Pomegranate">#F22613</Color>
+    <Color x:Key="Thunderbird">#D91E18</Color>
+    <Color x:Key="OldBrick">#96281B</Color>
+    <Color x:Key="Flamingo">#EF4836</Color>
+    <Color x:Key="Valencia">#D64541</Color>
+    <Color x:Key="TallPoppy">#C0392B</Color>
+    <Color x:Key="Monza">#CF000F</Color>
+    <Color x:Key="Xinnabar">#E74C3C</Color>
+    
+    <!--Pink-->
+    <Color x:Key="Razzmatazz">#DB0A5B</Color>
+    <Color x:Key="SunsetOrange">#F64747</Color>
+    <Color x:Key="WaxFlower">#F1A9A0</Color>
+    <Color x:Key="Cabaret">#D2527F</Color>
+    <Color x:Key="NewYorkPink">#E08283</Color>
+    <Color x:Key="RadicalRed">#F62459</Color>
+    <Color x:Key="Sunglo">#E26A6A</Color>
+
+    <!--Purple-->
+    <Color x:Key="Lavender">#947CB0</Color>
+    <Color x:Key="Snuff">#DCC6E0</Color>
+    <Color x:Key="RebeccaPurple">#663399</Color>
+    <Color x:Key="HoneyFlower">#674172</Color>
+    <Color x:Key="Wistful">#AEA8D3</Color>
+    <Color x:Key="Plum">#913D88</Color>
+    <Color x:Key="Seance">#9A12B3</Color>
+    <Color x:Key="MediumPurple">#BF55EC</Color>
+    <Color x:Key="LightWisteria">#BE90D4</Color>
+    <Color x:Key="Studio">#8E44AD</Color>
+    <Color x:Key="Wisteria">#9B59B6</Color>
+
+    <!--Yellow-->
+    <Color x:Key="CreamCan">#F5D76E</Color>
+    <Color x:Key="RipeLemon">#F7CA18</Color>
+    <Color x:Key="Saffron">#F4D03F</Color>
+
+    <!--Orange-->
+    <Color x:Key="SafronMango">#FABE58</Color>
+    <Color x:Key="Confetti">#E9D460</Color>
+    <Color x:Key="CapeHoney">#FDE3A7</Color>
+    <Color x:Key="California">#F89406</Color>
+    <Color x:Key="FireBush">#EB9532</Color>
+    <Color x:Key="TahitiGold">#E87E04</Color>
+    <Color x:Key="Casablanca">#F4B350</Color>
+    <Color x:Key="Crusta">#F2784B</Color>
+    <Color x:Key="SeaBuckthorn">#EB974E</Color>
+    <Color x:Key="LightningYellow">#F5AB35</Color>
+    <Color x:Key="BurntOrange">#D35400</Color>
+    <Color x:Key="Buttercup">#F39C12</Color>
+    <Color x:Key="Ecstasy">#F9690E</Color>
+    <Color x:Key="Sandstorm">#F9BF3B</Color>
+    <Color x:Key="Jaffa">#F27935</Color>
+    <Color x:Key="Zest">#E67E22</Color>
+
+    <!--Orange-->
+    <Color x:Key="SherpaBlue">#013243</Color>
+    <Color x:Key="SanMarino">#446CB3</Color>
+    <Color x:Key="AliceBlue">#E4F1FE</Color>
+    <Color x:Key="RoyalBlue">#4183D7</Color>
+    <Color x:Key="PictonBlue">#59ABE3</Color>
+    <Color x:Key="Spray">#81CFE0</Color>
+    <Color x:Key="Shakespeare">#52B3D9</Color>
+    <Color x:Key="HummingBird">#C5EFF7</Color>
+    <Color x:Key="PictonBluer">#22A7F0</Color>
+    <Color x:Key="CuriousBlue">#3498DB</Color>
+    <Color x:Key="Madison">#2C3E50</Color>
+    <Color x:Key="DodgerBlue">#19B5FE</Color>
+    <Color x:Key="Ming">#336E7B</Color>
+    <Color x:Key="EbonyClay">#22313F</Color>
+    <Color x:Key="Malibu">#6BB9F0</Color>
+    <Color x:Key="SummerSky">#1E8BC3</Color>
+    <Color x:Key="Chambray">#3A539B</Color>
+    <Color x:Key="PickledBluewood">#34495E</Color>
+    <Color x:Key="Hoki">#67809F</Color>
+    <Color x:Key="JellyBean">#2574A9</Color>
+    <Color x:Key="JacksonsPurple">#1F3A93</Color>
+    <Color x:Key="JordyBlue">#89C4F4</Color>
+    <Color x:Key="SteelBlue">#4B77BE</Color>
+    <Color x:Key="FountainBlue">#5C97BF</Color>
+
+    <!--Green-->
+    <Color x:Key="Malachite">#00E640</Color>
+    <Color x:Key="SummerGreen">#91B496</Color>
+    <Color x:Key="MediumTurquoise">#4ECDC4</Color>
+    <Color x:Key="AquaIsland">#A2DED0</Color>
+    <Color x:Key="Gossip">#87D37C</Color>
+    <Color x:Key="DarkSeaGreen">#90C695</Color>
+    <Color x:Key="Eucalyptus">#26A65B</Color>
+    <Color x:Key="CaribbeanGreen">#03C9A9</Color>
+    <Color x:Key="SilverTree">#68C3A3</Color>
+    <Color x:Key="Downy">#65C6BB</Color>
+    <Color x:Key="MountainMeadow">#1BBC9b</Color>
+    <Color x:Key="LightSeaGreen">#1BA39C</Color>
+    <Color x:Key="MediumAquarmarine">#66CC99</Color>
+    <Color x:Key="Turquoise">#36D7B7</Color>
+    <Color x:Key="Madang">#C8F7C5</Color>
+    <Color x:Key="Riptide">#86E2D5</Color>
+    <Color x:Key="Shamrock">#2ECC71</Color>
+    <Color x:Key="Niagara">#16A085</Color>
+    <Color x:Key="Emerald">#3FC380</Color>
+    <Color x:Key="GreenHaze">#019875</Color>
+    <Color x:Key="FreeSpeechAquamarine">#03A678</Color>
+    <Color x:Key="OceanGreen">#4DAF7C</Color>
+    <Color x:Key="Niagaraga">#2ABB9B</Color>
+    <Color x:Key="Jade">#00B16A</Color>
+    <Color x:Key="Salem">#1E824C</Color>
+    <Color x:Key="Observatory">#049372</Color>
+    <Color x:Key="JungleGreen">#26C281</Color>
